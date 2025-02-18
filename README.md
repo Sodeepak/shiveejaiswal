@@ -1,5 +1,5 @@
 ![logo](https://github.com/shiveejaiswal/shiveejaiswal/blob/main/Blue%20And%20White%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Shivee Jaiswal</h1>
+<h1 align="center">Hi 👋, I'm Sodeepak</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
